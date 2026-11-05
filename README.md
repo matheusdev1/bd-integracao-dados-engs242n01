@@ -6,10 +6,10 @@
 
 ## Equipe
 
-**Nome do time:** ____________________
+**Nome do time:** fragmentado
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
+| matheus cardoso | 2416200  | matheusdev1  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
