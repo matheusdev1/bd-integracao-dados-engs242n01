@@ -9,10 +9,11 @@
 **Nome do time:** fragmentado
 
 | Nome | Matrícula | Usuário do GitHub |
-| matheus cardoso | 2416200  | matheusdev1  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|---|---|---|
+| Matheus Cardoso | 2416200 | [matheusdev1](https://github.com/matheusdev1) |
+| | | |
+| | | |
+| | | |
 
 ## O cenário
 
